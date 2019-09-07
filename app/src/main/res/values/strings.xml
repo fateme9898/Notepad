@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotePad</string>
+
+
+    <string name="hint_title">Title</string>
+    <string name="hint_content">Content</string>
+    <string name="button_save">Save</string>
+
+</resources>
